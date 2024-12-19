@@ -1,5 +1,5 @@
 # PARKING_LOT_USING_COUNTER
-# Ojective
+# Objective
 The objective of using a counter system in a parking lot is to manage and monitor the number of vehicles entering and exiting the facility, ensuring that parking space is utilized efficiently and effectively.
 # Tools & technologies
 Hex D Flip Flop, 2:1 Mux, Shift Register, Bcd TO 7 Segment Decoder,  
